@@ -1,0 +1,36 @@
+name,description,category,sub_category,size,calories,price,is_veg
+Espresso,Smooth signature Espresso Roast with rich flavour,Coffee,Espresso,SHORT (237 ml),128,236.25,true
+Classic Iced Coffee,Premium Arabica coffee served chilled,Coffee,Iced Coffee,SHORT (237 ml),128,236.25,true
+Picco Cappuccino,Dark espresso under smoothened milk,Coffee,Cappuccino,PICCO (180 ml),95,194.25,true
+Hot Toddy Americano,Comforting espresso with hot water,Coffee,Americano,,43,341.25,true
+Blonde Almond Latte,Plant-based almond milk latte,Coffee,Latte,SHORT (237 ml),64,430.50,true
+Classic Hot Coffee,Premium Arabica beans hot brew,Coffee,Hot Coffee,180 ml,105,157.50,true
+Jaggery Cloud Latte,Coffee-forward latte with jaggery foam,Coffee,Latte,SHORT (237 ml),169,378.00,true
+Honey Almond Flat White,Plant-based almond flat white,Coffee,Flat White,SHORT (237 ml),89,435.75,true
+Honey Oat Flat White,Plant-based oat flat white,Coffee,Flat White,SHORT (237 ml),114,435.75,true
+Toffee Nut Crunch Latte,Latte with toffee nut crunch,Coffee,Latte,SHORT (237 ml),225,446.25,true
+Hazelnut Oat Cortado,Ristretto shots with hazelnut notes,Coffee,Cortado,,69,425.25,true
+Crunchy Red Hat Mocha,Mocha latte with crunchy topping,Coffee,Mocha,SHORT (237 ml),415,446.25,true
+Iced Crunchy Red Hat Mocha,Iced mocha latte with crunch,Coffee,Iced Mocha,TALL (354 ml),396,498.75,true
+Signature Irish Latte,Signature latte with Irish flavour,Coffee,Latte,SHORT (237 ml),279,446.25,true
+Caramel Macchiato,Vanilla milk with caramel espresso,Coffee,Macchiato,SHORT (237 ml),162,414.75,true
+Caffe Latte,Espresso balanced with steamed milk,Coffee,Latte,SHORT (237 ml),104,336.00,true
+Chocolate Cappuccino,Cappuccino with bittersweet cocoa,Coffee,Cappuccino,SHORT (237 ml),150,399.00,true
+Caffe Americano,Espresso with hot water,Coffee,Americano,SHORT (237 ml),0,309.75,true
+Doppio Espresso,Double espresso shot,Coffee,Espresso,,0,309.75,true
+Flat White,Ristretto shots with steamed milk,Coffee,Flat White,SHORT (237 ml),104,357.00,true
+Iced Caffe Latte,Espresso with milk over ice,Coffee,Iced Latte,TALL (354 ml),122,372.75,true
+Iced Cappuccino,Iced Italian cappuccino,Coffee,Iced Cappuccino,TALL (354 ml),,362.25,true
+Iced Caramel Macchiato,Iced caramel layered espresso,Coffee,Iced Macchiato,TALL (354 ml),,451.50,true
+Mocha Frappuccino,Mocha flavoured blended beverage,Frappuccino,Mocha,TALL (354 ml),261,462.00,true
+Triple Chocolate Frappuccino,Rich chocolate blended drink,Frappuccino,Chocolate,TALL (354 ml),502,509.25,true
+Java Chip Frappuccino,Mocha sauce with chocolate chips,Frappuccino,Chocolate,TALL (354 ml),329,441.00,true
+Green Tea Cream Frappuccino,Matcha blended beverage,Frappuccino,Matcha,TALL (354 ml),413,472.50,true
+Cold Coffee,Classic cold coffee,Frappuccino,Cold Coffee,TALL (354 ml),354,404.25,true
+Signature Hot Chocolate,Four cocoa hot chocolate,Other Beverages,Chocolate,SHORT (237 ml),284,346.50,true
+Strawberry Milkshake,Classic strawberry milkshake,Other Beverages,Milkshake,TALL (354 ml),569,430.50,true
+Chocolate Milkshake,Signature chocolate milkshake,Other Beverages,Milkshake,TALL (354 ml),632,430.50,true
+Vanilla Milkshake,Classic vanilla milkshake,Other Beverages,Milkshake,TALL (354 ml),531,430.50,true
+Filter Coffee,Traditional filter coffee,Brewed Coffee,Filter Coffee,SHORT (237 ml),226,336.00,true
+French Press India Estates,Indian estate brewed coffee,Brewed Coffee,French Press,473 ml,0,399.00,true
+Pour Over Sumatra,Pour over brewed Sumatra coffee,Brewed Coffee,Pour Over,237 ml,0,325.50,true
