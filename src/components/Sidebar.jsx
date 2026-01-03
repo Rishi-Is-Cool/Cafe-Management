@@ -1,17 +1,37 @@
+import { useLocation, Link } from "react-router-dom";
 import "../styles/main.css";
 
 function Sidebar() {
+  const location = useLocation();
+  const path = location.pathname;
+
+  const isActive = (p) => (path === p ? "active" : "");
+
   return (
     <div className="sidebar">
-      <h2 className="logo">Smart Café</h2>
+      <div className="logo">
+        Smart<span>Café</span>.
+      </div>
 
       <nav>
-        <a href="/">Dashboard</a>
-        <a href="/orders">Orders</a>
-        <a href="/wastage">Wastage</a>
-        <a href="/inventory">Inventory</a>
-        <a href="/analytics">Analytics</a>
-        <a href="/ai">AI Insights</a>
+        <Link to="/" className={isActive("/")}>
+          Dashboard
+        </Link>
+        <Link to="/orders" className={isActive("/orders")}>
+          Orders & Menu
+        </Link>
+        <Link to="/inventory" className={isActive("/inventory")}>
+          Inventory
+        </Link>
+        <Link to="/wastage" className={isActive("/wastage")}>
+          Wastage Tracking
+        </Link>
+        <Link to="/analytics" className={isActive("/analytics")}>
+          Analytics
+        </Link>
+        <Link to="/ai" className={isActive("/ai")}>
+          ✨ AI Insights
+        </Link>
       </nav>
     </div>
   );
